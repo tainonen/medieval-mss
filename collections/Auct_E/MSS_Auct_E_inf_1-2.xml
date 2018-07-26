@@ -45,6 +45,9 @@
                   <institution>University of Oxford</institution>
                   <repository>Bodleian Library</repository>
                   <idno type="shelfmark">MSS. Auct. E. inf. 1-2</idno>
+                  <altIdentifier>
+                     <idno type="ARK">ark:/29072/rc4x54g16</idno>
+                  </altIdentifier>
                  
                </msIdentifier>
                <msContents>
@@ -87,7 +90,7 @@
                      </listBibl>
                   </listBibl>
                </additional>
-               <msPart type="volume">
+               <msPart type="volume" xml:id="part-1">
                   <msIdentifier>
                      <idno type="shelfmark">MS. Auct. E. inf. 1</idno>
                      <altIdentifier type="internal">
@@ -114,7 +117,7 @@
                      </objectDesc>
                   </physDesc>
                </msPart>
-               <msPart type="volume">
+               <msPart type="volume" xml:id="part-2">
                   <msIdentifier>
                         <idno type="shelfmark">MS. Auct. E. inf. 2</idno>
                      <altIdentifier type="internal">
