@@ -49,12 +49,8 @@
                         <support>parchment</support>
                      </supportDesc>
                   </objectDesc>
-                  <handDesc>
-                     <handNote script="humanistica">English humanistic script. (<ref target="https://catalog.hathitrust.org/Record/000468709">Pächt and Alexander</ref> iii. 1170)</handNote>
-                  </handDesc>
                   <decoDesc>
-                     <summary>Imitation of Flemish ornament. (<ref target="https://catalog.hathitrust.org/Record/000468709">Pächt and Alexander</ref> iii. 1170, pl. CVII):</summary>
-                     <decoNote type="border">Good border.</decoNote><decoNote type="decInit"> Good initials.</decoNote>
+                     <decoNote>Good border, initials (imitation of Flemish ornament). English humanistic script. (<ref target="https://catalog.hathitrust.org/Record/000468709">Pächt and Alexander</ref> iii. 1170, pl. CVII)</decoNote>
                   </decoDesc>
                   <bindingDesc>
                      <binding notAfter="1625" notBefore="1600">

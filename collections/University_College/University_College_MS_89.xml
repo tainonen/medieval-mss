@@ -63,7 +63,8 @@
                   </msItem>
                   <msItem xml:id="University_College_MS_89-item3" n="3">
                      <author key="person_287984736">Hippocrates, v460-v370</author>
-                     <title key="work_6382">Prognostica</title>
+                     <title>Prognostica</title>
+                     <!--Possible work keys: work_7204 or work_6319 or work_2069-->
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
                   <msItem xml:id="University_College_MS_89-item4" n="4">
@@ -89,14 +90,14 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="Gregorian" notBefore="1300" notAfter="1400">14th century</origDate>
+                     <origDate calendar="Gregorian" notBefore="1300" notAfter="1400">s. XIV</origDate>
                   </origin>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
                         <source>
-                           <p>Summary description based on the following sources.</p>
+                           <p>Summary description by Philip Burnett, based on the following sources.</p>
                            <listBibl>
                               <bibl>
                                  <ref target="https://babel.hathitrust.org/cgi/pt?id=uc1.c3083855&amp;view=1up&amp;seq=44">H. O. Coxe, <title>Catalogus codicum mss. qui in collegiis aulisque Oxoniensibus hodie adservantur</title> (1852), p. 26</ref>
@@ -105,7 +106,7 @@
                         </source>
                      </recordHist>
                      <availability>
-                        <p>For permission to use images of this manuscript, please contact University College Library: <email>library@univ.ox.ac.uk</email>
+                        <p>For enquiries about this manuscript, please contact University College Library: <email>library@univ.ox.ac.uk</email>
                         </p>
                      </availability>
                   </adminInfo>

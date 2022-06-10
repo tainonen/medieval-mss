@@ -50,12 +50,8 @@
                         <support>parchment</support>
                      </supportDesc>
                   </objectDesc>
-                  <handDesc>
-                     <handNote script="humanistica">Humanistic script. (<ref target="https://catalog.hathitrust.org/Record/000468709">Pächt and Alexander</ref> ii. 247)</handNote>
-                  </handDesc>
                   <decoDesc>
-                     <summary><ref target="https://catalog.hathitrust.org/Record/000468709">Pächt and Alexander</ref> ii. 247:</summary>
-                     <decoNote type="border">Good border. </decoNote><decoNote type="decInit">Good initial. </decoNote>
+                     <decoNote>Good border, initial. Humanistic script. (<ref target="https://catalog.hathitrust.org/Record/000468709">Pächt and Alexander</ref> ii. 247)</decoNote>
                   </decoDesc>
                   <bindingDesc>
                      <binding>

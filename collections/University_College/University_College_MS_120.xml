@@ -54,7 +54,7 @@
                      <p>Composite manuscript in 2 parts</p>
                   </objectDesc>
                   <bindingDesc>
-                     <binding contemporary="true">
+                     <binding>
                         <p>Contemporary limp vellum.</p>
                      </binding>
                   </bindingDesc>
@@ -72,7 +72,7 @@
                   <adminInfo>
                      <recordHist>
                         <source>
-                           <p>Summary description based on the following sources.</p>
+                           <p>Summary description by Philip Burnett, based on the following sources.</p>
                            <listBibl>
                               <bibl>
                                  <ref target="https://babel.hathitrust.org/cgi/pt?id=uc1.c3083855&amp;view=1up&amp;seq=54">H. O. Coxe, <title>Catalogus codicum mss. qui in collegiis aulisque Oxoniensibus hodie adservantur</title> (1852), p. 36</ref>
@@ -83,7 +83,7 @@
                         </source>
                      </recordHist>
                      <availability>
-                        <p>For permission to use images of this manuscript, please contact University College Library: <email>library@univ.ox.ac.uk</email>
+                        <p>For enquiries about this manuscript, please contact University College Library: <email>library@univ.ox.ac.uk</email>
                         </p>
                      </availability>
                   </adminInfo>
@@ -97,6 +97,7 @@
                   <msContents>
                      <msItem xml:id="University_College_MS_120-part1-item1" n="1">
                         <title>Bestiary</title>
+                        <!--Possible work keys: work_7188 or work_10447 or work_10448-->
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
                   </msContents>
@@ -105,7 +106,7 @@
                   </physDesc>
                   <history>
                      <origin>
-                        <origDate calendar="Gregorian">13th century</origDate>
+                        <origDate calendar="Gregorian">s. XIII</origDate>
                      </origin>
                   </history>
                </msPart>
@@ -118,7 +119,8 @@
                   <msContents>
                      <msItem xml:id="University_College_MS_120-part2-item1" n="1">
                         <author key="person_86734224">Burley, Walter, 1275-1345</author>
-                        <title key="work_5684">De universalibus</title>
+                        <title>De universalibus</title>
+                        <!--Possible work keys: work_845-->
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
                   </msContents>
@@ -127,7 +129,7 @@
                   </physDesc>
                   <history>
                      <origin>
-                        <origDate calendar="Gregorian">15th century, end</origDate>
+                        <origDate calendar="Gregorian">s. XVex.</origDate>
                      </origin>
                   </history>
                </msPart>
